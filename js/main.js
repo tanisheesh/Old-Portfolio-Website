@@ -69,31 +69,31 @@ const projects = [
         title: "PosturePro",
         description: "PosturePro is a real-time posture detection system that uses a webcam and computer vision to monitor and alert users of poor posture.",
         tags: ["Python", "Streamlit", "Mediapipe", "cv2"],
-        github: "https://github.com/tanishpoddar/PosturePro"
+        github: "https://github.com/tanisheesh/PosturePro"
     },
     {
         title: "ShareAcademia",
         description: "ShareAcademia is a Java-based application for managing student academic information, including attendance and GPA calculations, through an intuitive GUI.",
         tags: ["Java", "MySQL", "JDBC", "Swing"],
-        github: "https://github.com/tanishpoddar/ShareAcademia"
+        github: "https://github.com/tanisheesh/ShareAcademia"
     },
     {
         title: "Verschlussel-Entschlussel",
         description: "Python T-Kinter GUI and Streamlit Web-App (modern usability) for text encryption and decryption. Developed for secure and accessible text communication.",
         tags: ["Python", "Streamlit"],
-        github: "https://github.com/tanishpoddar/Verschlussel-Entschlussel"
+        github: "https://github.com/tanisheesh/Verschlussel-Entschlussel"
     },
     {
         title: "SpeedScope",
         description: "It is a modern, user-friendly Python GUI application for testing and analyzing your internet connection speed. It provides real-time speed measurements & historical data tracking.",
         tags: ["Python", "Custom T-Kinter", "InternetSpeed"],
-        github: "https://github.com/tanishpoddar/SpeedScope"
+        github: "https://github.com/tanisheesh/SpeedScope"
     },
     {
         title: "Celestial-Weather",
         description: "Celestial Weather is a Responsive Web-App that fetches weather data via OpenWeatherMap API. Built with HTML, CSS, JavaScript for current weather access.",
         tags: ["HTML", "CSS", "JavaScript"],
-        github: "https://github.com/tanishpoddar/celestial-weather"
+        github: "https://github.com/tanisheesh/celestial-weather"
     },
 
 ];
